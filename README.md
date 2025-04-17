@@ -1,4 +1,3 @@
-![GitHub Profile QR Code](frame.png)
 ![QR Code for GitHub](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/shashwotpaudel)
 
 # Shashwot Paudel  
