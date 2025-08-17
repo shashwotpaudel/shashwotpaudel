@@ -35,7 +35,7 @@ I am a PhD student with a strong background in structural engineering, numerical
 
 ### 🌐 Connect with Me
 - 📫 Email: [spaudel3@illinois.edu](mailto:spaudel3@illinois.edu)
-- 🔗 [LinkedIn](#) | [Google Scholar](#) *(Add your actual profile links)*
+- 🔗 [LinkedIn](#) | [Google Scholar](#) 
 
 ---
 
